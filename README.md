@@ -5,7 +5,6 @@ This Python-based job scraper collects listings from **Naukri**, **Glassdoor**, 
 ---
 
 ## 🚀 Features
-
 - 🔎 **Multi-platform scraping** from:
   - Naukri
   - Glassdoor
